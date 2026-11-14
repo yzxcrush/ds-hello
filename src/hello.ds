@@ -1,0 +1,4 @@
+# ds-hello：示例包源码
+pub fn hello(name: str) -> str {
+    "hello, " + name
+}
