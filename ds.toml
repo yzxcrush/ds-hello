@@ -1,0 +1,8 @@
+name = "ds-hello"
+version = "0.1.0"
+description = "dspm 示例包：一个 hello 模块"
+authors = ["@惜白."]
+license = "MIT"
+exports = ["hello"]
+deps = []
+targets = ["app", "bare"]
